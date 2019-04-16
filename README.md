@@ -1,2 +1,2 @@
 # configs
-Track and share configurations files for Ubuntu server
+Track and share configuration files for Ubuntu server
